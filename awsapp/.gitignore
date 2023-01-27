@@ -1,0 +1,24 @@
+# AWS Credentials
+.env
+
+# Node modules
+node_modules/
+
+# Build folder
+build/
+
+# Local development files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Test-related files
+coverage/
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
